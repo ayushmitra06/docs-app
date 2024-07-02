@@ -7,7 +7,7 @@ const Foreground = () => {
     const [cards, setCards] = useState([
         {
             id: 1,
-            desc: "This is the Default Card Description area where you can write your tasks.",
+            desc: "This is the Default Card Description, ALL THE CARDS ARE DRAGGABLE.",
             filesize: ".9 mb",
             close: true,
             tag: {
